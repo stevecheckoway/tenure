@@ -10,7 +10,7 @@ school. My CV is available [here](cv.pdf) and all of my papers are available
 One major theme of my research is embedded systems security, with an emphasis
 on the security of computer systems used in automobiles and airplanes.
 
-- [Jetset: Targeted Firmware Rehosting for Embedded Systems](jetset2021.pdf)
+- [Jetset: Targeted Firmware Rehosting for Embedded Systems](jetset2021.pdf).
   2021 USENIX Security Symposium. To appear.
 - [Triton: A Software-Reconfigurable Federated Avionics
   Testbed](triton-testbed2019.pdf). 2019 Workshop on Cyber Security Evaluation
@@ -22,10 +22,10 @@ on the security of computer systems used in automobiles and airplanes.
   ACM Conference on Computer and Communication Security.
 - [iSeeYou: Disabling the MacBook Webcam Indicator LED](iseeyou2014.pdf). 2014
   USENIX Security Symposium.
-- [Security Analysis of a Full-Body Scanner](radsec2014.pdf) 2014 USENIX
+- [Security Analysis of a Full-Body Scanner](radsec2014.pdf). 2014 USENIX
   Security Symposium.
 - [Comprehensive Experimental Analyses of Automotive Attack
-  Surfaces](car2011.pdf)\* 2011 USENIX Security Symposium. **Finalist for the
+  Surfaces](car2011.pdf).\* 2011 USENIX Security Symposium. **Finalist for the
   2011 NYU-Poly AT&T Best Applied Security Paper Award.**
 - [Experimental Security Analysis of a Modern Automobile](car2010.pdf).\* IEEE
   Symposium on Security and Privacy. **IEEE Test of Time Award.**
