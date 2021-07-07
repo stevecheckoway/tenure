@@ -10,7 +10,7 @@ One major theme of my research is embedded systems security, with an emphasis
 on the security of computer systems used in automobiles and airplanes.
 
 - [Jetset: Targeted Firmware Rehosting for Embedded Systems](jetset2021.pdf)
-  2021 USENIX Security Symposium.
+  2021 USENIX Security Symposium. To appear.
 - [Triton: A Software-Reconfigurable Federated Avionics
   Testbed](triton-testbed2019.pdf). 2019 Workshop on Cyber Security Evaluation
   and Test.
