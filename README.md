@@ -1,9 +1,10 @@
 # Stephen Checkoway's tenure material
 
 My research efforts have been focused around several different areas of
-computer security. I have grouped my publications by area below, sorted by
-date. Some papers fit in multiple categories and thus appear in multiple
-lists. Papers marked with \* were written during graduate school.
+computer security. I have grouped a selection of my publications by area
+below, sorted by date. Papers marked with \* were written during graduate
+school. My CV is available [here](cv.pdf) and all of my papers are available
+[here](https://checkoway.net/papers).
 
 ## Embedded systems security
 One major theme of my research is embedded systems security, with an emphasis
